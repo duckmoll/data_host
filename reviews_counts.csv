@@ -1,85 +1,85 @@
-id,size,groupid
-Ahmed Indian Restaurant 1,29.6,1
-Ahmed Indian Restaurant 2,27.8,1
-Bachata Breeze Restaurant,1.8,1
-Backlot Express,26.0,1
-Bamboo Garden Super Buffet,2.2,1
-Biergarten Restaurant,120.2,1
-Boi Brazil Churrascaria,74.8,1
-Boston Lobster Feast,154.8,1
-Breakfast with Goofy and his Pals,1.8,1
-Buffet City,15.2,1
-Cafe Gauguin,9.8,1
-Cafe Matisse,5.8,1
-Café Osceola,11.8,1
-Chef Mickey's,115.0,1
-Cici's Pizza 1,20.6,1
-Cici's Pizza 2,6.6,1
-Cici's Pizza 3,11.2,1
-Cici's Pizza 4,7.0,1
-Covington Mill Restaurant,3.6,1
-Crazy Buffet 1,1.2,1
-Crazy Buffet 2,49.4,1
-Crydermans Barbecue,23.8,1
-Curry House Indian Cuisine,3.2,1
-El Palacio Buffet 1,8.2,1
-El Palacio Buffet 2,31.4,1
-El Palacio Buffet 3,5.4,1
-El Potro,50.4,1
-Estrella Latina,1.6,1
-Fresh Mediterranean Market,10.8,1
-Garden Grill Restaurant,50.6,1
-Gateway To India,37.8,1
-Giant Panda,33.0,1
-Golden Corral Buffet & Grill 1,14.8,1
-Golden Corral Buffet & Grill 10,12.8,1
-Golden Corral Buffet & Grill 11,7.0,1
-Golden Corral Buffet & Grill 2,4.6,1
-Golden Corral Buffet & Grill 3,15.0,1
-Golden Corral Buffet & Grill 4,33.0,1
-Golden Corral Buffet & Grill 5,22.0,1
-Golden Corral Buffet & Grill 6,23.2,1
-Golden Corral Buffet & Grill 7,10.8,1
-Golden Corral Buffet & Grill 8,24.6,1
-Golden Corral Buffet & Grill 9,12.8,1
-Harvest Bistro,16.8,1
-Hokkaido Chinese & Japanese Buffet 1,80.2,1
-Hokkaido Chinese & Japanese Buffet 2,66.2,1
-Hollywood & Vine,57.4,1
-Ichiban Buffet 1,86.8,1
-Ichiban Buffet 2,6.2,1
-Ichiban Buffet 3,99.0,1
-Ichigo Ichie Buffet,15.2,1
-Izziban Sushi And Korean BBQ,169.6,1
-King Buffet,6.0,1
-Koywan Hibachi Buffet,58.4,1
-La China Blue,7.8,1
-La Cita Country Club,1.2,1
-Lai Lai Chinese Cuisine & Sushi Bar,13.6,1
-Latitude & Longitude,5.8,1
-Lechonera Latina,1.0,1
-Mandolin's,2.4,1
-Mei Asian China Buffet,27.8,1
-Mikado Japanese Seafood Buffet,69.8,1
-Minnie's Silver Screen Dine,1.0,1
-Moghul Indian Cuisine,58.0,1
-Nine Spices Hot Pot,101.2,1
-Oreganatta,15.2,1
-Phil-Asian Foodmart,2.8,1
-Plaza Garden Restaurant,1.2,1
-Ponderosa Steakhouse,4.2,1
-Rosen Inn Lake Buena Vista,29.0,1
-Saffron Indian Cuisine 1,174.0,1
-Saffron Indian Cuisine 2,14.0,1
-Savannah Bar and Grille,1.8,1
-SeaWorld Orlando,223.2,1
-Spice Indian Grill,18.8,1
-Texas de Brazil,169.6,1
-The Crystal Palace,115.0,1
-The Garden Gallery,4.2,1
-The Knife - Lake Buena Vista,94.6,1
-Tony's Brazilian Grill,10.6,1
-Tropical Cabana,30.0,1
-U & Me Revolving Hot Pot,21.0,1
-Villa de Flora,28.8,1
-Whistle Stop Restaurant,1.8,1
+id,address,size,groupid
+Ahmed Indian Restaurant 1,"11301 S Orange Blossom Trl, Ste 104",29.6,1
+Ahmed Indian Restaurant 2,10042 University Blvd,27.8,1
+Bachata Breeze Restaurant,5773 Curry Ford Rd,1.8,1
+Backlot Express,351 S Studio Dr,26.0,1
+Bamboo Garden Super Buffet,3125 Columbia Blvd,2.2,1
+Biergarten Restaurant,1510 Ave Of The Stars,120.2,1
+Boi Brazil Churrascaria,5600 International Dr,74.8,1
+Boston Lobster Feast,8731 International Dr,154.8,1
+Breakfast with Goofy and his Pals,10100 Dream Tree Blvd,1.8,1
+Buffet City,4551 13th St,15.2,1
+Cafe Gauguin,9840 International Dr,9.8,1
+Cafe Matisse,9700 International Dr,5.8,1
+Café Osceola,9939 Universal Blvd,11.8,1
+Chef Mickey's,4600 World Dr,115.0,1
+Cici's Pizza 1,7437 International Dr,20.6,1
+Cici's Pizza 2,"11701 International Dr, Ste 2200",6.6,1
+Cici's Pizza 3,5035 W Irlo Bronson Memorial Hwy,11.2,1
+Cici's Pizza 4,"13605 Sr 535, Ste 101",7.0,1
+Covington Mill Restaurant,1751 Hotel Plaza Blvd,3.6,1
+Crazy Buffet 1,12237 Orange Blossom Trl,1.2,1
+Crazy Buffet 2,7038 W Colonial Dr,49.4,1
+Crydermans Barbecue,401 Florida Ave,23.8,1
+Curry House Indian Cuisine,11352 S Orange Blossom Trl,3.2,1
+El Palacio Buffet 1,909 West Vine St,8.2,1
+El Palacio Buffet 2,7403 S Orange Blossom Trl,31.4,1
+El Palacio Buffet 3,843 Lee Rd,5.4,1
+El Potro,"501 N Orlando Ave, Ste 217",50.4,1
+Estrella Latina,7371 Lake Underhill Rd,1.6,1
+Fresh Mediterranean Market,1500 Epcot Resorts Blvd,10.8,1
+Garden Grill Restaurant,1510 N Cove Rd,50.6,1
+Gateway To India,790 E State Rd 434,37.8,1
+Giant Panda,11726 E Colonial Dr,33.0,1
+Golden Corral Buffet & Grill 1,11731 E. Colonial Drive,14.8,1
+Golden Corral Buffet & Grill 10,2328 S. Semoran Blvd.,12.8,1
+Golden Corral Buffet & Grill 11,1555 Grand Hwy,7.0,1
+Golden Corral Buffet & Grill 2,7251 West Colonial Drive,4.6,1
+Golden Corral Buffet & Grill 3,5535 S Kirkman Rd,15.0,1
+Golden Corral Buffet & Grill 4,8707 Vineland Avenue,33.0,1
+Golden Corral Buffet & Grill 5,6077 W. Irlo Bronson Memorial,22.0,1
+Golden Corral Buffet & Grill 6,11701 International Dr,23.2,1
+Golden Corral Buffet & Grill 7,2701 W Vine St,10.8,1
+Golden Corral Buffet & Grill 8,8032 International Drive,24.6,1
+Golden Corral Buffet & Grill 9,897 West Town Parkway,12.8,1
+Harvest Bistro,14100 Bonnet Creek Resort Ln,16.8,1
+Hokkaido Chinese & Japanese Buffet 1,5737 W Irlo Bronson Memorial Hwy,80.2,1
+Hokkaido Chinese & Japanese Buffet 2,12173 S Apopka Vineland Rd,66.2,1
+Hollywood & Vine,351 S Studio Dr,57.4,1
+Ichiban Buffet 1,5529 International Dr,86.8,1
+Ichiban Buffet 2,735 N Courtenay Pkwy,6.2,1
+Ichiban Buffet 3,5269 W Irlo Bronson Memorial Hwy,99.0,1
+Ichigo Ichie Buffet,3611 S Orlando Dr,15.2,1
+Izziban Sushi And Korean BBQ,5310 E Colonial Dr,169.6,1
+King Buffet,2157 E Semoran Blvd,6.0,1
+Koywan Hibachi Buffet,"945 W State Rd 436, Ste 1179",58.4,1
+La China Blue,3749 S Kirkman Rd,7.8,1
+La Cita Country Club,777 Country Club Dr,1.2,1
+Lai Lai Chinese Cuisine & Sushi Bar,"7400 Southland Blvd, Ste 116",13.6,1
+Latitude & Longitude,8701 World Center Drive,5.8,1
+Lechonera Latina,3806 Curry Ford Rd,1.0,1
+Mandolin's,2900 Parkway Blvd,2.4,1
+Mei Asian China Buffet,"8255 International Dr, Ste 126",27.8,1
+Mikado Japanese Seafood Buffet,"851 S State Rd 434, Ste 1130-1170",69.8,1
+Minnie's Silver Screen Dine,351 S Studio Dr,1.0,1
+Moghul Indian Cuisine,401 N Semoran Blvd,58.0,1
+Nine Spices Hot Pot,5320 S Kirkman Rd,101.2,1
+Oreganatta,6320 International Dr,15.2,1
+Phil-Asian Foodmart,2650 N Orange Blossom Trl,2.8,1
+Plaza Garden Restaurant,9000 International Dr,1.2,1
+Ponderosa Steakhouse,7598 W Irlo Bronson Memorial Hwy,4.2,1
+Rosen Inn Lake Buena Vista,8442 Palm Pkwy,29.0,1
+Saffron Indian Cuisine 1,7724 W Sand Lake Rd,174.0,1
+Saffron Indian Cuisine 2,"16745 Cagan Crossings Blvd, Ste 103@104",14.0,1
+Savannah Bar and Grille,3011 Maingate Ln,1.8,1
+SeaWorld Orlando,7007 SeaWorld Dr,223.2,1
+Spice Indian Grill,"4498 N Alafaya Trl, Ste 306",18.8,1
+Texas de Brazil,"5259 International Dr, Ste F1",169.6,1
+The Crystal Palace,1365 W Monorail Way,115.0,1
+The Garden Gallery,1950 Magnolia Palm,4.2,1
+The Knife - Lake Buena Vista,12501 State Rd 535,94.6,1
+Tony's Brazilian Grill,5159 International Dr,10.6,1
+Tropical Cabana,1875 Central Florida Pkwy,30.0,1
+U & Me Revolving Hot Pot,12384 S Apopka Vineland Rd,21.0,1
+Villa de Flora,6000 W Osceola Pkwy,28.8,1
+Whistle Stop Restaurant,2728 Cayman Cir,1.8,1
