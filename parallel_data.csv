@@ -1,4 +1,4 @@
-business_id,name,Food_Score,Service_Score,Environment_Score,Variety_Score,Music_Score,Drink_Score,Sauce_Score,Stars,Review_Count,address,Price
+business_id,name,Food Score,Service Score,Environment Score,Variety Score,Music Score,Drink Score,Sauce Score,Stars,Review_Count,address,Price
 A,Ahmed Indian Restaurant 1,0.249444444,0.349242424,0.133333333,0.230331263,0.136363636,0.5,-0.0625,3.5,146,"11301 S Orange Blossom Trl, Ste 104",2
 B,Ahmed Indian Restaurant 2,0.226196172,0.404545455,0.491666667,0.173044218,0,-0.2,0.158333333,4,131,10042 University Blvd,2
 C,Backlot Express,0.222283702,0.357575758,0.3,0.293167702,0.136363636,0.055555556,0.230555556,3.5,129,351 S Studio Dr,2
