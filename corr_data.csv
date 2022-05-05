@@ -1,65 +1,65 @@
 column_x,column_y,correlation,row,column
-Food Score,Food Score,1.0,1,1
-Food Score,Service Score,0.4444444444444444,1,2
-Food Score,Environment Score,-0.17012987012987013,1,3
-Food Score,Variety Score,-0.38478379857690204,1,4
-Food Score,Drink Score,0.03247807901075932,1,5
-Food Score,Sauce Score,0.012079686777782726,1,6
-Food Score,Stars,0.38355241132598816,1,7
-Food Score,Review Count,-0.07170224411603722,1,8
-Service Score,Food Score,0.4444444444444444,2,1
-Service Score,Service Score,1.0,2,2
-Service Score,Environment Score,-0.15194805194805194,2,3
-Service Score,Variety Score,-0.10454296661193213,2,4
-Service Score,Drink Score,-0.2916531495166187,2,5
-Service Score,Sauce Score,0.2597132657223286,2,6
-Service Score,Stars,0.3683566444796174,2,7
-Service Score,Review Count,-0.1330049261083744,2,8
-Environment Score,Food Score,-0.17012987012987013,3,1
-Environment Score,Service Score,-0.15194805194805194,3,2
-Environment Score,Environment Score,1.0,3,3
-Environment Score,Variety Score,0.2935064935064935,3,4
-Environment Score,Drink Score,-0.15591122366832375,3,5
-Environment Score,Sauce Score,-0.09608354189321237,3,6
-Environment Score,Stars,0.12384462865044482,3,7
-Environment Score,Review Count,0.3077922077922078,3,8
-Variety Score,Food Score,-0.38478379857690204,4,1
-Variety Score,Service Score,-0.10454296661193213,4,2
-Variety Score,Environment Score,0.2935064935064935,4,3
-Variety Score,Variety Score,1.0,4,4
-Variety Score,Drink Score,0.2390386615191886,4,5
-Variety Score,Sauce Score,0.07096815981947352,4,6
-Variety Score,Stars,0.23806701392647542,4,7
-Variety Score,Review Count,0.3694581280788177,4,8
-Drink Score,Food Score,0.03247807901075932,5,1
-Drink Score,Service Score,-0.2916531495166187,5,2
-Drink Score,Environment Score,-0.15591122366832375,5,3
-Drink Score,Variety Score,0.2390386615191886,5,4
-Drink Score,Drink Score,1.0,5,5
-Drink Score,Sauce Score,-0.6067673909058287,5,6
-Drink Score,Stars,0.030134154536394973,5,7
-Drink Score,Review Count,0.26891849420908714,5,8
-Sauce Score,Food Score,0.012079686777782726,6,1
-Sauce Score,Service Score,0.2597132657223286,6,2
-Sauce Score,Environment Score,-0.09608354189321237,6,3
-Sauce Score,Variety Score,0.07096815981947352,6,4
-Sauce Score,Drink Score,-0.6067673909058287,6,5
-Sauce Score,Sauce Score,1.0,6,6
-Sauce Score,Stars,0.22379703330319553,6,7
-Sauce Score,Review Count,-0.20233475352786065,6,8
-Stars,Food Score,0.38355241132598816,7,1
-Stars,Service Score,0.3683566444796174,7,2
-Stars,Environment Score,0.12384462865044482,7,3
-Stars,Variety Score,0.23806701392647542,7,4
-Stars,Drink Score,0.030134154536394973,7,5
-Stars,Sauce Score,0.22379703330319553,7,6
-Stars,Stars,1.0,7,7
-Stars,Review Count,0.4063460615955443,7,8
-Review Count,Food Score,-0.07170224411603722,8,1
-Review Count,Service Score,-0.1330049261083744,8,2
-Review Count,Environment Score,0.3077922077922078,8,3
-Review Count,Variety Score,0.3694581280788177,8,4
-Review Count,Drink Score,0.26891849420908714,8,5
-Review Count,Sauce Score,-0.20233475352786065,8,6
-Review Count,Stars,0.4063460615955443,8,7
-Review Count,Review Count,1.0,8,8
+Food ,Food ,1,1,1
+Food ,Service ,0.444444444,1,2
+Food ,Environment ,-0.17012987,1,3
+Food ,Variety ,-0.384783799,1,4
+Food ,Drink ,0.032478079,1,5
+Food ,Sauce ,0.012079687,1,6
+Food ,Stars,0.383552411,1,7
+Food ,Review Count,-0.071702244,1,8
+Service ,Food ,0.444444444,2,1
+Service ,Service ,1,2,2
+Service ,Environment ,-0.151948052,2,3
+Service ,Variety ,-0.104542967,2,4
+Service ,Drink ,-0.29165315,2,5
+Service ,Sauce ,0.259713266,2,6
+Service ,Stars,0.368356644,2,7
+Service ,Review Count,-0.133004926,2,8
+Environment ,Food ,-0.17012987,3,1
+Environment ,Service ,-0.151948052,3,2
+Environment ,Environment ,1,3,3
+Environment ,Variety ,0.293506494,3,4
+Environment ,Drink ,-0.155911224,3,5
+Environment ,Sauce ,-0.096083542,3,6
+Environment ,Stars,0.123844629,3,7
+Environment ,Review Count,0.307792208,3,8
+Variety ,Food ,-0.384783799,4,1
+Variety ,Service ,-0.104542967,4,2
+Variety ,Environment ,0.293506494,4,3
+Variety ,Variety ,1,4,4
+Variety ,Drink ,0.239038662,4,5
+Variety ,Sauce ,0.07096816,4,6
+Variety ,Stars,0.238067014,4,7
+Variety ,Review Count,0.369458128,4,8
+Drink ,Food ,0.032478079,5,1
+Drink ,Service ,-0.29165315,5,2
+Drink ,Environment ,-0.155911224,5,3
+Drink ,Variety ,0.239038662,5,4
+Drink ,Drink ,1,5,5
+Drink ,Sauce ,-0.606767391,5,6
+Drink ,Stars,0.030134155,5,7
+Drink ,Review Count,0.268918494,5,8
+Sauce ,Food ,0.012079687,6,1
+Sauce ,Service ,0.259713266,6,2
+Sauce ,Environment ,-0.096083542,6,3
+Sauce ,Variety ,0.07096816,6,4
+Sauce ,Drink ,-0.606767391,6,5
+Sauce ,Sauce ,1,6,6
+Sauce ,Stars,0.223797033,6,7
+Sauce ,Review Count,-0.202334754,6,8
+Stars,Food ,0.383552411,7,1
+Stars,Service ,0.368356644,7,2
+Stars,Environment ,0.123844629,7,3
+Stars,Variety ,0.238067014,7,4
+Stars,Drink ,0.030134155,7,5
+Stars,Sauce ,0.223797033,7,6
+Stars,Stars,1,7,7
+Stars,Review Count,0.406346062,7,8
+Review Count,Food ,-0.071702244,8,1
+Review Count,Service ,-0.133004926,8,2
+Review Count,Environment ,0.307792208,8,3
+Review Count,Variety ,0.369458128,8,4
+Review Count,Drink ,0.268918494,8,5
+Review Count,Sauce ,-0.202334754,8,6
+Review Count,Stars,0.406346062,8,7
+Review Count,Review Count,1,8,8
