@@ -1,4 +1,4 @@
-company,subawardee_contracts,subawardee_sum,primary_contractors,sub_contractors,log(subawardee_sum)
+company,subawardee_contracts,subawardee_sum,primary_contractors,sub_contractors,log_subawardee_sum
 3M Company,1,49270.55,0,1,10.805081818455204
 3M INTERAMERICA INC,2,119428.0,0,1,11.690468958311083
 "6K ADDITIVE, LLC",1,43600.0,0,1,10.682812429337126
